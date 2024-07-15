@@ -1,3 +1,10 @@
+# Sobre o Projeto
+
+Repositorio Criado para a entrega do Challenge número 4 da trilha de React da DIO. trata-se de uma tela de log-in implementada com typescript e React.
+
+Foi nos fornecido um repositorio para utilizarmos como base no challenge
+[Repo Base](https://github.com/digitalinnovationone/trilha-react-desafio-4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
